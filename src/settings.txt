@@ -1,0 +1,12 @@
+Diffuse light bevel:
+- smoothness: 1
+- elevation: 0
+- azimuth: 0
+
+Drop shadow:
+- x: 0
+- y: 0
+- blur radius: 3px
+- colour: black, opacity 50% (0000007f)
+
+PNG generation starts with export from Inkscape (1024x1024) then resize using Paint.NET best quality settings to 256x256, 128x128 and 24x24
